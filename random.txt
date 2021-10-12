@@ -1,0 +1,5 @@
+Cradle point endpoint on every laptop.
+Thats how laptops are able to acccess mapped drives...... Supposedly 
+Craddle point vpn 
+
+https://s3.us-east-2.amazonaws.com/cortez.codes-resume-bucket/index.html

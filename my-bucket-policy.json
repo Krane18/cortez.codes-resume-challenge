@@ -1,0 +1,15 @@
+  {
+    "Id": "Policy1630499558625",
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Sid": "Stmt1630499551897",
+        "Action": [
+          "s3:GetObject"
+        ],
+        "Effect": "Allow",
+        "Resource": "arn:aws:s3:::cortez.codes-resume-bucket/* ",
+        "Principal": "*"
+      }
+    ]
+  }

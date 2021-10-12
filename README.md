@@ -1,2 +1,3 @@
-# cortez.codes-resume-challenge
-My attempt at the cloud resume challenge
+# cortez.codes Resume-challenge
+My resume hosted on AWS. 
+More to come!
